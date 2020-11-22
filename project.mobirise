@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Souvik Karar",
+    "name": "Digital Karar",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -48,15 +48,15 @@
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": "https://www.souvikkarar.com",
+    "siteUrl": "https://digitalkarar.com",
     "gdpr": false,
     "uniqCompNum": 47,
-    "versionPublish": "4.12.4",
+    "versionPublish": "5.0.16",
     "screenshot": "screenshot.png",
     "publishChangesOnly": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "cookiesAlert": false,
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-118341331-7\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-118341331-7');\n</script>"
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-S6VYPV8NN6\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-S6VYPV8NN6');\n</script>"
   },
   "pages": {
     "index.html": {

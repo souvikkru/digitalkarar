@@ -51,7 +51,7 @@
     "siteUrl": "https://digitalkarar.com",
     "gdpr": false,
     "uniqCompNum": 47,
-    "versionPublish": "5.0.16",
+    "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "publishChangesOnly": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
